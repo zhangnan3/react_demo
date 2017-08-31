@@ -64,6 +64,6 @@ console.log(i);
 
 * 理解了导入导出方式，也就掌握了 ES6 模块。
 
-运行环境
+* 运行环境
 
 import/export 是 ES6 新关键字。普通浏览器包括 nodejs 都还不支持。所以代码未来我们需要到 create-react-app 环境中去使用。
