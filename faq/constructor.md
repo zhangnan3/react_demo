@@ -125,5 +125,5 @@ class Dog {
 let doudou = new Dog('doudou')
 let feifei = new Dog('feifei')
 doudou.sayHello()
-feifei.sayHello()v
+feifei.sayHello()
 ~~
