@@ -1,7 +1,7 @@
 ####  创建仓库
 
-~~~~~
-* 到 github.com 创建 dj-demos 仓库
+
+*  到 github.com 创建 dj-demos 仓库
 
 * 本地创建同名项目
 
@@ -34,5 +34,4 @@
 
 * 等待一会儿，就可以到 https://happypeter.github.io/dj-demo 下看到网页了
 
-
-~~~~~~
+x
