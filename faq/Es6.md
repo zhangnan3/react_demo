@@ -13,7 +13,7 @@ http://es6.ruanyifeng.com/
 如何”转译“ ES6 ？
 
 使用 Babel 来进行转译。可以到 https://babeljs.io/ 去试用一下 babel 。但是，实际开发中，我们都是在命令行中去自动化的使用 Babel 。
-s
+
 Babel 的官网在：http://babeljs.io/ 。官网上对它的描述是：
 
 一个 Javascript 的编译器( compiler )

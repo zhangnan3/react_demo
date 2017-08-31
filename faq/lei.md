@@ -1,18 +1,8 @@
-//
-// class Dog{
-//   constructor(name){
-//     this.name=  name
-//     }
-//     sayName(){
-//       console.log(this.name)
-//   }
-// }
-// let doudou = new Dog('doudou');
-// let feifei = new Dog('feifei');
-// doudou.sayName()
-// feifei.sayName()
+######类的继承也是面向对象编程的基本知识。
 
+* 比如人是一个类
 
+```
 class Person {
   sayKind(){
     console.log('human')
@@ -32,3 +22,7 @@ const peter =new Men
 const billie =new  Women
 peter .sayKind()
 billie .sayKind()
+
+
+```
+* 上类代码中 Person 是父级
