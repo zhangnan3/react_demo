@@ -19,26 +19,26 @@ myFun('happypeter')
 
 同时，如果参数只有一个，那么可以把括号去掉，写成
 
-``
+```
 const myFun = name => {
   console.log(name)
 }
 
 myFun('happypeter')
 
-``
+```
 同时，如果里面的语句只有一条，那么花括号也可省去。
 
-``
+```
 const myFun = name =>
   console.log(name)
 
 myFun('happypeter')
 
-``
+```
 既然，语句很少，那么写到一行上也可以。
 
-``
+```
 const myFun = name => console.log(name)
 
 myFun('happypeter')
@@ -54,7 +54,7 @@ console.log(myFun('happypeter'))
 const myFun = name => name + name
 
 
-``
+```
 为何要把函数弄得这么简短
 
 因为 JS 特别强调函数式编程，也就是经常弄一些无名函数，作为另外一个高阶函数的参数，传来传去，那么这样定义函数时语句的简短就显得非常有必要了。
