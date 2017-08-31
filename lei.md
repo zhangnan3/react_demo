@@ -28,7 +28,8 @@ class Men {
 * 代码
 
 
-~~
+~~~~
+
 class Person {
   sayKind () {
     console.log('human')
@@ -52,4 +53,6 @@ const peter = new Men
 const billie = new Women
 peter.sayKind()
 billie.sayKind()
-~~
+
+
+~~~~~
