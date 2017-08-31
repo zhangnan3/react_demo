@@ -107,11 +107,11 @@ peter.sayName();
 我们来构造一个类，叫 Dog 。然后 new 一个对象，叫 doudou ，要求
 
 doudou.sayName()
-# 输出 doudou
+##### 输出 doudou
 运行环境使用 nodejs 。
 
 答案是：
-
+~~
 class Dog {
   constructor (name) {
     this.name = name
@@ -121,7 +121,9 @@ class Dog {
   }
 }
 
+
 let doudou = new Dog('doudou')
 let feifei = new Dog('feifei')
 doudou.sayHello()
 feifei.sayHello()v
+~~
