@@ -66,4 +66,5 @@ const myFun = name => name + name
 参考
 
 http://es6.ruanyifeng.com/#docs/function#箭头函数
+
 http://haoduoshipin.com/v/211.html

@@ -53,3 +53,16 @@
 // const Fun =function(name) {
 //   console.log(name);
 // }
+// let date=[1,5,6,9,10,12].find(value =>value>9)
+// console.log(date);
+
+
+//
+// let a=[1,2,3].map(fun=value=> value*2)
+// console.log(a);
+
+
+let a=[1,2,3]
+
+let b=a.map(c => c*2)
+console.log(b);
