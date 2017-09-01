@@ -62,7 +62,19 @@
 // console.log(a);
 
 
-let a=[1,2,3]
+// let a=[1,2,3]
+//
+// let b=a.map(c => c*2)
+// console.log(b);
 
-let b=a.map(c => c*2)
-console.log(b);
+// let a=[2,9,10,15,20,21]
+//
+// let b=a.filter(t=>t>10)
+// console.log(b);
+
+
+
+// const a=[1,2,3,4,5,6]
+//
+// const b=a.reverse(c=>c)
+// console.log(b);
