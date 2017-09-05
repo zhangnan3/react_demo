@@ -78,3 +78,14 @@
 //
 // const b=a.reverse(c=>c)
 // console.log(b);
+
+
+
+// const obj = { a: 1, b: 2, c: 3 }
+// //
+// // console.log(Object.keys(obj))
+//
+// // Object.keys(obj).map(t => console.log(obj[t]))
+//
+//
+// Object.keys(obj).map(t=> console.log(obj[t]))
